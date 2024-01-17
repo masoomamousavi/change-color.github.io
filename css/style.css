@@ -1,0 +1,11 @@
+body {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 25px;
+}
+
+div.col-md-6 {
+    margin-bottom: 50px;
+}
